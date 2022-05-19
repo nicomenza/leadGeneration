@@ -2,7 +2,7 @@ from prospectador import Prospectador
 
 # ---- general ----
 prospectador = "Prospectador 2"
-g_drive_path = r"C:\Users\nico\Google Drive (nmenzaghi@debmedia.com)"
+g_drive_path = r"C:\Users\nico\Google Drive "
 activity = "prospectar"
 country = "Argentina"
 industry = "Ejemplo"
